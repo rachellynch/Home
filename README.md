@@ -1,1 +1,1 @@
-# Home
+This GitHub project is reserved for publication of my capstone code, published May 2025. I will be using data visualization to conduct a hypothetical campaign analysis for U.S. military logistics to deploy troops and equipment out of the Philippines into the Spratly Islands.
